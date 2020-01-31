@@ -1,6 +1,7 @@
 # UTSA Intro to Data Science
 
 This one session course will touch the following topics as an introduction to the Data Science: 
+
     1) Introduction to data science 
     2) Introduction to Python programming language and data science related modules 
     3) Data Scientist responsibility and task stages 
